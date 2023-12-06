@@ -1,0 +1,16 @@
+C:\Users\jessi\OneDrive\MVC\Tournament.Data\bin\Debug\net8.0\Tournament.Data.deps.json
+C:\Users\jessi\OneDrive\MVC\Tournament.Data\bin\Debug\net8.0\Tournament.Data.dll
+C:\Users\jessi\OneDrive\MVC\Tournament.Data\bin\Debug\net8.0\Tournament.Data.pdb
+C:\Users\jessi\OneDrive\MVC\Tournament.Data\bin\Debug\net8.0\Tournament.Core.dll
+C:\Users\jessi\OneDrive\MVC\Tournament.Data\bin\Debug\net8.0\Tournament.Core.pdb
+C:\Users\jessi\OneDrive\MVC\Tournament.Data\obj\Debug\net8.0\Tournament.Data.csproj.AssemblyReference.cache
+C:\Users\jessi\OneDrive\MVC\Tournament.Data\obj\Debug\net8.0\Tournament.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessi\OneDrive\MVC\Tournament.Data\obj\Debug\net8.0\Tournament.Data.AssemblyInfoInputs.cache
+C:\Users\jessi\OneDrive\MVC\Tournament.Data\obj\Debug\net8.0\Tournament.Data.AssemblyInfo.cs
+C:\Users\jessi\OneDrive\MVC\Tournament.Data\obj\Debug\net8.0\Tournament.Data.csproj.CoreCompileInputs.cache
+C:\Users\jessi\OneDrive\MVC\Tournament.Data\obj\Debug\net8.0\Tournament.Data.sourcelink.json
+C:\Users\jessi\OneDrive\MVC\Tournament.Data\obj\Debug\net8.0\Tournament.Data.csproj.CopyComplete
+C:\Users\jessi\OneDrive\MVC\Tournament.Data\obj\Debug\net8.0\Tournament.Data.dll
+C:\Users\jessi\OneDrive\MVC\Tournament.Data\obj\Debug\net8.0\refint\Tournament.Data.dll
+C:\Users\jessi\OneDrive\MVC\Tournament.Data\obj\Debug\net8.0\Tournament.Data.pdb
+C:\Users\jessi\OneDrive\MVC\Tournament.Data\obj\Debug\net8.0\ref\Tournament.Data.dll

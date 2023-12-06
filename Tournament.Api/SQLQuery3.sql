@@ -1,0 +1,2 @@
+﻿SET IDENTITY_INSERT Gamemodel OFF
+SET IDENTITY_INSERT Tournamnetmainmodel OFF
